@@ -4,9 +4,9 @@
 
 I work on **robot learning for manipulation**, with hands-on experience in **VLA adaptation, 3D perception, and real-robot deployment**.
 
-🧠 Exploring **agentic robotics** and **lightweight VLA models**.
+🧠 Exploring **agentic robotics**, **generalist robot policies**, and **physical AI**.
 
-🔭 Interested in **reinforcement & continual learning for self-improving robotic agents**, **generalist robot policies & generalization**, **world action models (WAM)**, **spatial intelligence & physical AI**, and **tactile/force sensing for dexterous manipulation**.
+🔭 Interested in **reinforcement & continual learning for self-improving robotic agents**, **generalist robot policies & generalization**, **transferable representation learning**, **world action models (WAM)**, **spatial intelligence & physical AI**, and **tactile/force sensing for dexterous manipulation**.
 
 ### Tools & platforms
 
